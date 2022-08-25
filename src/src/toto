@@ -1,0 +1,125 @@
+base
+bin
+chain
+chainbin
+configure
+configure.old
+cudadecoder
+cudadecoderbin
+cudafeat
+cudafeatbin
+cudamatrix
+decoder
+doc
+Doxyfile
+feat
+featbin
+fgmmbin
+fstbin
+fstext
+gmm
+gmmbin
+gst-plugin
+hip
+hmm
+INSTALL
+itf
+ivector
+ivectorbin
+kaldi.mk
+kaldi.mk.bak
+kws
+kwsbin
+lat
+latbin
+lib
+lm
+lmbin
+Makefile
+makefiles
+matrix
+nnet
+nnet2
+nnet2bin
+nnet3
+nnet3bin
+nnetbin
+NOTES
+online
+online2
+online2bin
+onlinebin
+probe
+rnnlm
+rnnlmbin
+sam_make.log
+sgmm2
+sgmm2bin
+tfrnnlm
+tfrnnlmbin
+TODO
+toto
+transform
+tree
+util
+make[1]: Entering directory '/home/users/braconth/SAM/HIP/src/src/base'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/home/users/braconth/SAM/HIP/src/src/base'
+make -C matrix
+make[1]: Entering directory '/home/users/braconth/SAM/HIP/src/src/matrix'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/home/users/braconth/SAM/HIP/src/src/matrix'
+make -C util
+make[1]: Entering directory '/home/users/braconth/SAM/HIP/src/src/util'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/home/users/braconth/SAM/HIP/src/src/util'
+make -C tree
+make[1]: Entering directory '/home/users/braconth/SAM/HIP/src/src/tree'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/home/users/braconth/SAM/HIP/src/src/tree'
+make -C fstext
+make[1]: Entering directory '/home/users/braconth/SAM/HIP/src/src/fstext'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/home/users/braconth/SAM/HIP/src/src/fstext'
+make -C gmm
+make[1]: Entering directory '/home/users/braconth/SAM/HIP/src/src/gmm'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/home/users/braconth/SAM/HIP/src/src/gmm'
+make -C hmm
+make[1]: Entering directory '/home/users/braconth/SAM/HIP/src/src/hmm'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/home/users/braconth/SAM/HIP/src/src/hmm'
+make -C lat
+make[1]: Entering directory '/home/users/braconth/SAM/HIP/src/src/lat'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/home/users/braconth/SAM/HIP/src/src/lat'
+make -C transform
+make[1]: Entering directory '/home/users/braconth/SAM/HIP/src/src/transform'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/home/users/braconth/SAM/HIP/src/src/transform'
+make -C decoder
+make[1]: Entering directory '/home/users/braconth/SAM/HIP/src/src/decoder'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/home/users/braconth/SAM/HIP/src/src/decoder'
+make -C lm
+make[1]: Entering directory '/home/users/braconth/SAM/HIP/src/src/lm'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/home/users/braconth/SAM/HIP/src/src/lm'
+make -C bin
+make[1]: Entering directory '/home/users/braconth/SAM/HIP/src/src/bin'
+rm -f arpa2fst
+make[1]: Leaving directory '/home/users/braconth/SAM/HIP/src/src/bin'
+make -C cudamatrix
+make[1]: Entering directory '/home/users/braconth/SAM/HIP/src/src/cudamatrix'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/home/users/braconth/SAM/HIP/src/src/cudamatrix'
+make -C chain
+make[1]: Entering directory '/home/users/braconth/SAM/HIP/src/src/chain'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/home/users/braconth/SAM/HIP/src/src/chain'
+make -C nnet3
+make[1]: Entering directory '/home/users/braconth/SAM/HIP/src/src/nnet3'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/home/users/braconth/SAM/HIP/src/src/nnet3'
+make -C chainbin
+make[1]: Entering directory '/home/users/braconth/SAM/HIP/src/src/chainbin'
